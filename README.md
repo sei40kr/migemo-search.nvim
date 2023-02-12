@@ -19,7 +19,7 @@ require("lazy").setup({
 })
 ```
 
-### Configuration
+## Configuration
 
 ```lua
 local ms = require("migemo-search")
@@ -30,6 +30,6 @@ ms.setup({
 vim.keymap.set("c", "<CR>", ms.cr)
 ```
 
-### Credits
+## Credits
 
 - [rhysd/migemo-search.vim](https://github.com/rhysd/migemo-search.vim)
